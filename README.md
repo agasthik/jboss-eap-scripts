@@ -1,4 +1,4 @@
-##### This repository contains a set of custom developed scripts to start / stop JBOSS EAP application server on a *NIX box
+#### This repository contains a set of custom developed scripts to start / stop JBOSS EAP application server on a *NIX box
 
 
 
